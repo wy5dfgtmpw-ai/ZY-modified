@@ -187,7 +187,7 @@
 
 (function() {
     var KEY = 'keepaliveAudioEnabled';
-    var SRC = 'https://raw.githubusercontent.com/MoYu527/ZY-modified/main/SVID_20260830_002243_2.mp3';
+    var SRC = './silence.m4a';
     var _audio = null;
     var _unlockBound = false;
 
